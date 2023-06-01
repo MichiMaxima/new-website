@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Education
+title: Vita
 description: >
   Short overview over my previous education.
 hide_description: true
 sitemap: false
-permalink: /education/
+permalink: /vita/
 ---
 Here you find some information over my previous education and related information. It just includes elementary school, highschool and my current university studies as well as scholarships.
 
